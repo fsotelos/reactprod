@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7e4d4c3.css",
+    "main.js": "/static/js/main.ba9e45a9.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/static/js/787.0f7dc5a1.chunk.js",
+    "static/media/image5.png": "/static/media/image5.d4bc91be117185e1b021.png",
+    "static/media/image8.png": "/static/media/image8.54f0b358f17c03e3d926.png",
+    "static/media/image6.png": "/static/media/image6.5003be0c4e32cd952824.png",
+    "static/media/image7.png": "/static/media/image7.452aac3569f91a0abcd1.png",
+    "static/media/image2.png": "/static/media/image2.4d5bab821b9aa98347e7.png",
+    "static/media/image1.png": "/static/media/image1.7a8eb17771789f630898.png",
+    "static/media/image9.png": "/static/media/image9.83a71c09395e259ce14e.png",
+    "static/media/image3.png": "/static/media/image3.f045b2e0e3bbe2011611.png",
+    "static/media/image4.png": "/static/media/image4.8c4e6f9fcb235838cf92.png",
+    "static/media/axios.cjs": "/static/media/axios.f73c6a014bbc8a882637.cjs",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.c7e4d4c3.css.map": "/static/css/main.c7e4d4c3.css.map",
+    "main.ba9e45a9.js.map": "/static/js/main.ba9e45a9.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e4d4c3.css",
+    "static/js/main.ba9e45a9.js"
+  ]
+}
